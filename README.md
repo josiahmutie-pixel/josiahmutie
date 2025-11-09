@@ -51,14 +51,6 @@ I specialize in data analysis, machine learning, and data visualization, using t
 
 ## 📈 Featured Projects
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| **📢 [Advertisement Model](https://github.com/Mutie886/Advertisement-Model-Logistic-Regression)** | Built a logistic regression model to predict advertisement click-through behavior. | Python, Pandas, Scikit-learn |
-| **🔍 [Classification Model (KNN)](https://github.com/Mutie886/Classification-Model-KNN)** | Implemented K-Nearest Neighbors algorithm for classification tasks. | Python, Pandas, Scikit-learn |
-| **🛒 [E-commerce Customers Prediction](https://github.com/Mutie886/E-commerce-Customers-Prediction-Linear-Regression)** | Developed a linear regression model to predict e-commerce customer spending. | Python, Pandas, Scikit-learn |
-| **🏦 [Loan Prediction Model](https://github.com/Mutie886/Loan-Prediction-Model-Random-Forest-Decision-Tree)** | Applied Decision Trees and Random Forest to predict loan eligibility. | Python, Scikit-learn |
-| **🔗 [Data Merging, Joining & Concatenation](https://github.com/Mutie886/Data-Merging-Joining-Concatenation)** | Demonstrated techniques to merge, join, and concatenate datasets in Python. | Python, Pandas |
-
 **🔗 [View All My Projects](https://github.com/Mutie886?tab=repositories)**
 
 ## ✨ Fun Touch
@@ -71,9 +63,10 @@ I specialize in data analysis, machine learning, and data visualization, using t
 
 - 💼 [LinkedIn](www.linkedin.com/in/josia-mutie-350a19210)
 - 📧 **Email:** josiahsuku886@gmail.com
+- 📧 **Email:** josiah.mutie@aims.ac.rw
 - 💻 **GitHub:** [JosiaMutie-pixel](https://github.com/josiahmutie-pixel)
 - 💻 **GitHub:** [Mutie886](https://github.com/Mutie886)
-- 📁 [Portfolio](https://yourportfolio.com)
+- 📁 [Portfolio](https://mutie886.github.io/Portfolio_template/)
 
 ---
 
